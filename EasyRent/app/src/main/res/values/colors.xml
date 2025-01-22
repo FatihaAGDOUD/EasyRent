@@ -9,5 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="MainColor">#17C6E3</color>
 
+    <color name="text_color_dark">#FFFFFF</color> <!-- Dark mode text color -->
+    <color name="text_color_light">#000000</color> <!-- Light mode text color -->
 
 </resources>
